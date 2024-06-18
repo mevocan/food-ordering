@@ -20,7 +20,7 @@ const Cart = () => {
                   EXTRAS
                 </th>
                 <th scope="col" className="py-3 px-6">
-                  PRICE
+                  PRICEaaaaa
                 </th>
                 <th scope="col" className="py-3 px-6">
                   QUANTITY
